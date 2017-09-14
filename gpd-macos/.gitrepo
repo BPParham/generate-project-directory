@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/BPParham/gpd-macos.git
+	branch = master
+	commit = f785dc03c26359dc5f1f397f229891b21eca0175
+	parent = 1f6b24dfc4d0466e69afcd224760264722b1887b
+	cmdver = 0.3.1
