@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/BPParham/gpd-linux.git
+	branch = master
+	commit = da5d5ad98fa7db589e027952ed9f63a2bcd2f967
+	parent = 6a2a1a87ab9c8bcf0acb36cbaf4548954cbcb686
+	cmdver = 0.3.1
